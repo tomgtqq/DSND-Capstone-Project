@@ -3,7 +3,7 @@
 This project is part of Udacity’s Data Science Nanodegree which contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. This project aims to build a machine learning model to determine which demographic groups are more likely to complete an offer and predict how much someone will spend. Not all users receive the same offer, and that is the challenge to solve with this data set.
 
 <div align="center">
-<img src="./assets/Starbucks.jpg" height="200" width="300">
+<img src="./assets/Starbucks.png" height="200" width="300">
 </div>
 <div align="center">
 <u> **How to increase turnover?** </u>
